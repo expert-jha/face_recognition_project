@@ -1,0 +1,4 @@
+face_recog_env/
+__pycache__/
+*.h5
+*.pyc
